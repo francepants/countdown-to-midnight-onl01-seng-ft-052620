@@ -10,3 +10,7 @@
 #     number -= 1
 #   end
 # end
+
+def countdown(number)
+  
+end
